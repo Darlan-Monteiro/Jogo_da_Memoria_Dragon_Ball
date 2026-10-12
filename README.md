@@ -1,4 +1,4 @@
-<h1 align="center">🐉 Jogo da Memória — Dragon Ball Z</h1>
+<h1 align="center">🐉 Jogo da Memória - Dragon Ball Z</h1>
 
 <p align="center">
   Jogo da memória desktop com tema Dragon Ball Z, feito em <strong>Python + Tkinter</strong>,<br>
@@ -68,8 +68,8 @@ pip install -r requirements.txt
 
 ### 3. Adicione as imagens dos personagens
 
-As imagens **não estão incluídas neste repositório** (veja o aviso legal no final deste README).
-Coloque suas próprias imagens na pasta `personagens/`, com os nomes abaixo:
+As imagens **estão incluídas neste repositório** (veja o aviso legal no final deste README).
+Na pasta `personagens/`, com os nomes abaixo:
 
 ```
 personagens/goku.png         personagens/yamcha.png
@@ -183,9 +183,7 @@ As principais configurações ficam no topo de `jogo_memoria_dbz.py`:
 
 Este é um **projeto de fã, criado para fins educacionais e de portfólio, sem fins lucrativos**.
 Dragon Ball Z e seus personagens são propriedade de seus respectivos detentores de direitos
-(Akira Toriyama, Bird Studio, Shueisha, Toei Animation e outros). Este repositório não é afiliado
-nem endossado por eles e **não distribui as imagens dos personagens**: cada pessoa deve usar suas próprias imagens
-localmente. O código-fonte está disponível sob a licença MIT.
+(Akira Toriyama, Bird Studio, Shueisha, Toei Animation e outros). O código-fonte está disponível sob a licença MIT.
 
 ## 👤 Autor
 
@@ -197,7 +195,7 @@ Meu foco é unir estatística e programação para resolver problemas reais com 
 Este jogo é um projeto de estudo (e de fã!) em que pratiquei interface gráfica, gerenciamento de estado,
 layout responsivo e boas práticas para organizar um repositório.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darlan-santos-01a87b185/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Darlan-Monteiro)
 
 Se o projeto te ajudou ou te divertiu, deixe uma ⭐ no repositório!
