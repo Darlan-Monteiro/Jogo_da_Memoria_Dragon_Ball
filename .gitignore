@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+*.spec
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Imagens dos personagens (arte protegida por direitos autorais, não versionar)
+personagens/*
+!personagens/README.md
