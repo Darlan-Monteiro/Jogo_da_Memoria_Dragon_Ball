@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="<img width="791" height="939" alt="image" src="https://github.com/user-attachments/assets/4c93fea6-d905-496d-8ff5-f8b1dd5a0e60" />
-" alt="Tela do Jogo da Memória Dragon Ball Z em execução" width="460">
+  <img src="<img width="694" height="801" alt="image" src="https://github.com/user-attachments/assets/4786d63f-aca1-4901-8ff0-c7be5b395c75" />" alt="Tela do Jogo da Memória Dragon Ball Z em execução" width="460">
 </p>
 
 ---
